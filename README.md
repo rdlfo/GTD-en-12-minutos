@@ -21,24 +21,24 @@
 
 ## ¿Qué es "GTD"?
 
-GTD significa "Getting Things Done" o en español, "Organizate con eficacia". GTD
+GTD significa "Getting Things Done" o en español, "Organízate con eficacia". GTD
 es un método de trabajo que sirve para gestionar tus ideas y pendientes.
 El objetivo de GTD no es solamente ser una lista de tareas, sino
 un sistema simple e integral que te permita avanzar y completar tus proyectos.
 
-Con el podrás monitorear y completar ideas como "Conquistar el mundo", o
-actividades tales a "Hablar con Katia a las 10:15 a.m. para discutir
+Con él podrás monitorear y completar ideas como "Conquistar el mundo", o
+actividades tales como "Hablar con Katia a las 10:15 a.m. para discutir
 sobre nuestro nuevo proyecto millonario".
 
 El sistema GTD asume que nuestro inconsciente es malo para
 pensar *activamente* que es lo que deberíamos estar haciendo. Por ejemplo: si
 tienes hambre y no hay comida en tu casa, posiblemente te darás cuenta muy
 tarde que había que hacer despensa. GTD te dará una forma de trabajo que
-hará que esto no vuelva a ocurrir.
+hará que esto no te vuelva a ocurrir .
 
 Todos tenemos actividades en las que debemos, y algunas, en las que queremos
 trabajar, pero estas ideas las dejamos olvidadas en algún lado y permitimos
-al azar y a las ganas de recordarnoslas.
+al azar y a las ganas de recordárnoslas.
 
 [Jessica Kerr](http://jessitron.com/) lo dijo perfectamente:
 
@@ -49,7 +49,7 @@ al azar y a las ganas de recordarnoslas.
 El principio de GTD es darte un plan para convertir tus tareas en *acciones
 concretas*.
 
-Cuando te acostumbres a usarlo y confiar en el, empezarás a sentirte
+Cuando te acostumbres a usarlo y a confiar en él, empezarás a sentirte
 más en control de tu vida. Esto reducirá tus niveles de estrés y te conseguirá
 tiempo para relajarte, sin mencionar que te acercará a terminar lo que deseas.
 
@@ -86,27 +86,26 @@ Para iniciar necesitas preguntarte si la idea que estás revisando es
 *accionable*. Es decir: ¿puedes hacer algo con el pendiente? Si la respuesta
 es *NO* vas a hacer una de las siguientes cosas:
 
-
 a) Borrarlo.
 
 b) Guardarlo como material de referencia.
 
 c) Agregarlo a la lista de Algún día / Quizás.
 
-d) o Incubarlo.
+d) Incubarlo.
 
 El incubarlo se refiere a las actividades que te gustaría recordar en una
 fecha en el futuro. Para incubar, solo anota la idea en tu calendario en el día
-qué crees que lo aprovecharás. Ej. Releer el artículo fisica cuantica la
+que crees que lo aprovecharás. Ej. Releer el artículo de física cuántica la
 próxima semana.
 
 
 Si la entrada en tu lista *ES* accionable (se puede hacer algo al respecto)
-hazte y responde la pregunta ¿Cuál es el siguiente paso?
+hazte y responde la pregunta: ¿Cuál es el siguiente paso?.
 Este paso deberá de ser una acción en *concreto*.
 
-Por ejemplo: Si tuvieras una actividad marcada como "Avanzar en el trabajo de
-investigación" deberás de convertirla a una más específica cómo "Citar
+Por ejemplo: si tuvieras una actividad marcada como "Avanzar en el trabajo de
+investigación" deberás de convertirla a una más específica como "Citar
 fuentes en formato APA."
 
 Esta es una de las reglas más importantes del método GTD. El siguiente paso
@@ -156,12 +155,12 @@ cuánto tiempo has estado esperando una tarea.
 ## La lista "Proyectos"
 
 Cualquier tarea que requiera más de una acción para completarse puede
-considerarse como un Proyecto. En si, esta es una lista con *los
+considerarse como un Proyecto. En sí, esta es una lista con *los
 nombres de tus proyectos*. Se recomienda que a cada proyecto le agregues una
 descripción breve sobre sus detalles y los resultados que esperas al
 final de este.
 
-Cuando revises tu lista de proyectos, asegurate que al menos exista una acción
+Cuando revises tu lista de proyectos, asegúrate que al menos exista una acción
 por proyecto dentro de tu lista de "Siguiente". De esta manera el sistema te
 asegura que tus proyectos no sean olvidados y continúes avanzando en ellos.
 Esto es crucial en el sistema GTD.
@@ -171,18 +170,18 @@ Esto es crucial en el sistema GTD.
 ![](images/arroba6.png "At")
 
 Un contexto es una etiqueta que puedes agregar a las actividades de la lista
-"Siguiente". Esta etiqueta te ayuda a resaltar donde o que herramienta necesitas
+"Siguiente". Esta etiqueta te ayuda a resaltar dónde o qué herramienta necesitas
 para poder completar esa actividad.
 
-Los contextos son útiles porque permiten identificar rápidamente que necesitamos
+Los contextos son útiles porque permiten identificar rápidamente qué necesitamos
 para trabajar en una tarea.
 
 ### Ejemplos de tareas y sus contextos
 
 | Actividades                                 | Contexto        |
 |---------------------------------------------|-----------------|
-| Escribir un libro de Informatica            | @computadora    |
-| Comprar regalos de navidad para mis amigos  | @tienda         |
+| Escribir un libro de Informática            | @computadora    |
+| Comprar regalos de Navidad para mis amigos  | @tienda         |
 | Regresar el libro de Programación básica    | @biblioteca     |
 
 (Puedes usar colores o escribir un símbolo como (# o @) para identificar estas
@@ -207,11 +206,11 @@ veas.
 ## La lista de "Algún día / Quizás"
 
 Esta lista reúne las ideas parecidas a "empezar un culto" o "aprender una
-lengua muerta" (asumiendo que no te interesa hacerlo eso en este momento).
+lengua muerta" (asumiendo que no te interesa hacerlo en este momento).
 
 Ideas que te gusten, pero que no tienes la motivación para hacer en estos
-momentos van aquí. Algunas veces, habrán otras prioridades en tu vida y no
-podrás prestarle atención a ciertas ideas hasta fechas posteriores, para
+momentos van aquí. Algunas veces habrán otras prioridades en tu vida y no
+podrás prestarle atención a ciertas ideas hasta fechas posteriores. Para
 que esas ideas no sean olvidadas se debe de revisar semanalmente esta lista.
 
 ## Calendario
@@ -223,7 +222,7 @@ fecha en específico. El calendario será mucho más útil si solamente te dice
 qué es lo que necesitas hacer en cada fecha dada.
 
 No confundas actividades que quieres hacer con las que debes de hacer. Si es
-lo primero, y no hay fecha limite natural, estas deben de ir en tu lista de
+lo primero, y no hay fecha límite natural, estas deben de ir en tu lista de
 "Siguiente".
 
 ## Revisión Semanal
@@ -231,34 +230,34 @@ lo primero, y no hay fecha limite natural, estas deben de ir en tu lista de
 Uno de los factores críticos para hacer que funcione el sistema GTD es la
 revisión semanal. No eres un robot y olvidarás cosas de momento en momento.
 
-Completarás una actividad del proyecto que tanto quieres, pero quizas olvides
-agregar una nueva tarea. Podrias olvidar quitar actividades que ya hiciste o bien,
+Completarás una actividad del proyecto que tanto quieres, pero quizás olvides
+agregar una nueva tarea. Podrías olvidar quitar actividades que ya hiciste, o bien,
 que no has completado en semanas porque ya no son prioridad.
 Esto es de lo más normal y para eso es que existe la revisión.
 
-Para asegurar que todo funcione como se debe, se sugiere que tomes al menos
+Para asegurar que todo funcione como debe, se sugiere que tomes al menos
 treinta minutos cada fin de semana, el día viernes o sábado, para analizar tus
 listas.
 
 En tu revisión deberás de hacer lo siguiente:
 * Asegurar que cada uno de tus proyectos tenga una acción en "Siguiente". Esta
-actividad *debe* de ser algo que tu *realmente* quieras o necesites
+actividad *debe* de ser algo que tú *realmente* quieras o necesites
 hacer la semana venidera. Si no, mueve la actividad o el proyecto entero a la
 lista de "Algún día / Quizás". Se honesto contigo, y si no crees que vayas a
 cumplirlo deberás bórralo y continuar con lo que realmente te es importante.
 
 * Revisar tu lista "Algún día / Quizás" y verificar si alguno de tus proyectos o
 ideas deben de ser movidos a tu lista de "Proyectos" o "Siguiente". Si vas
-a crear un nuevo Proyecto, asegurate que agregues su primer acción
+a crear un nuevo Proyecto, asegúrate de agregar su primera acción
 *concreta* en la lista de "Siguiente".
 
-## Lista de Disparadores
+## Lista de disparadores
 
 Esta es una lista opcional que contiene palabras que te "disparan" a pensar en
 ideas que aún no hayas capturado en tu lista de "In". Puedes revisarla una
 vez a la semana en tu tiempo de revisión.
 
-## Asegurandote de que funcione
+## Asegurándote de que funcione
 
 *Es importante que tengas bien definidos los alcances de la lista "Siguiente".
 Tu lista *Siguiente* debe de contener tareas específicas y *concretas* para
@@ -284,11 +283,13 @@ necesitas.
 
 ### Lapíz y Papel
 *Pros:*
+
 * Solución barata y simple
 * No necesita una pila para funcionar
 * Es más natural
 
 *Contras:*
+
 * Es molesto encontrar las listas si no tienes separadores
 * Si se te pierde no tienes copias
 * Podrías olvidar traerla a donde estés
@@ -324,11 +325,10 @@ Las ilustraciones mostradas en este sitio fueron dibujadas por el grupo
 Esta obra y todo su contenido está bajo una licencia de
 [Creative Commons de Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
 
-La guía fué escrita en Markdown y se utiliza
+La guía fue escrita en Markdown y se utiliza
 [pandoc](http://pandoc.org/) para crear el HTML.
 
-
-Por ultimo:
+Por último:
 
 ¡Platica conmigo en [twitter](www.twitter.com/r_dlfo)!
 Cualquier comentario o sugerencias es bienvenido.
