@@ -258,25 +258,25 @@ que la mejor herramienta siempre es aquella que se acomode a lo que tu
 necesitas.
 
 ### Lapíz y Papel
-*Pros:*
-*Solución barata y simple
-*No necesita pila para funcionar
-*Es más natural
+* Pros:*
+* Solución barata y simple
+* No necesita pila para funcionar
+* Es más natural
 
 *Contras:*
-*Es molesto encontrar las listas si no tienes separadores
-*Si se te pierde no tienes copias
-*Podrías olvidar traerla a donde estés
+* Es molesto encontrar las listas si no tienes separadores
+* Si se te pierde no tienes copias
+* Podrías olvidar traerla a donde estés
 
 ### Wunderlist (Android)[https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid&hl=es_419], (iOS)[https://itunes.apple.com/us/app/wunderlist-to-do-list-tasks/id406644151?mt=8]
 *Pros:*
-*Gratis
-*Se sincroniza con todos tus dispositivos
-*Interfaz atractiva
+* Gratis
+* Se sincroniza con todos tus dispositivos
+* Interfaz atractiva
 
 *Contras:*
-*Necesita celular
-*Necesitas batería para usarla
+* Necesita celular
+* Necesitas batería para usarla
 
 ## Sobre esta guía
 
