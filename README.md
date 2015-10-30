@@ -1,4 +1,4 @@
-# GTD en 15 minutos - Una guía práctica
+# GTD en 12 minutos - Una guía práctica
 
 ![](images/directions.png "Compass")
 
