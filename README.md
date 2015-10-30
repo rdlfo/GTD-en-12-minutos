@@ -322,13 +322,8 @@ Las ilustraciones mostradas en este sitio fueron dibujadas por el grupo
 Esta obra y todo su contenido está bajo una licencia de
 [Creative Commons de Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
 
-La guía fue escrita en Markdown y se utiliza
-[pandoc](http://pandoc.org/) para crear el HTML.
-
-Por último:
-
 ¡Platica conmigo en [twitter](www.twitter.com/r_dlfo)!
-Cualquier comentario o sugerencias es bienvenido.
+Cualquier comentario o sugerencia es bienvenido.
 
 :)
 
