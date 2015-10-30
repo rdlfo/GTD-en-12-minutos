@@ -214,11 +214,12 @@ strong {
   color:#222;
   font-weight:700;
 }
-
+/*
 header ul li + li + li {
   border-right:none;
   width:89px;
 }
+*/
 
 header ul a strong {
   font-size:14px;
