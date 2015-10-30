@@ -132,7 +132,7 @@ Hablaremos más sobre esto en los siguientes apartados.
 
 Para resumir:
 
-![](images/ResumenGrafico.png "")
+![](images/gtd-guia-visual-original.png "")
 
 ## La lista "Siguiente"
 
