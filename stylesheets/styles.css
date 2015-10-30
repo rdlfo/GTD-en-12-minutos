@@ -163,7 +163,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
+/*
 header ul {
   list-style:none;
   height:40px;
@@ -173,6 +173,7 @@ header ul {
   border:1px solid #e0e0e0;
   width:270px;
 }
+
 
 header li {
   width:89px;
@@ -222,6 +223,7 @@ header ul a strong {
   display:block;
   color:#222;
 }
+*/
 
 section {
   width:500px;

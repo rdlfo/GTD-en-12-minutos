@@ -331,6 +331,8 @@ La guía fué escrita en Markdown y se utiliza
 Por ultimo:
 
 ¡Platica conmigo en [twitter](www.twitter.com/r_dlfo)!
-Cualquier comentario o sugerencias es bienvenido :)
+Cualquier comentario o sugerencias es bienvenido.
+
+:)
 
 ![](images/twitter22.png "Twitter")
