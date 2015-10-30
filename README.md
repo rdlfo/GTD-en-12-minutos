@@ -327,9 +327,10 @@ Esta obra y todo su contenido está bajo una licencia de
 La guía fué escrita en Markdown y se utiliza
 [pandoc](http://pandoc.org/) para crear el HTML.
 
+
 Por ultimo:
 
 ¡Platica conmigo en [twitter](www.twitter.com/r_dlfo)!
-Comentarios y sugerencias de mejora son bienvenidos.
+Cualquier comentario o sugerencias es bienvenido :)
 
 ![](images/twitter22.png "Twitter")
