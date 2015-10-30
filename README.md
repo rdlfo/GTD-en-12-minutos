@@ -87,11 +87,8 @@ Para iniciar necesitas preguntarte si la idea que estás revisando es
 es *NO* vas a hacer una de las siguientes cosas:
 
 a) Borrarlo.
-
 b) Guardarlo como material de referencia.
-
 c) Agregarlo a la lista de Algún día / Quizás.
-
 d) Incubarlo.
 
 El incubarlo se refiere a las actividades que te gustaría recordar en una
