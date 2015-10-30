@@ -58,11 +58,12 @@ GTD es tan simple y sencillo que puedes utilizar lápiz y papel para manejarlo.
 ![](images/drawers.png "Drawers")
 
 Para comenzar, necesitarás crear cinco listas distintas:
+
 1. In
-2. Siguiente
-3. Esperando
-4. Proyectos
-5. Algún día / Quizás
+1. Siguiente
+1. Esperando
+1. Proyectos
+1. Algún día / Quizás
 
 Estas listas son la columna vertebral del sistema GTD y necesitan ser revisadas
 frecuentemente. Puedes agregar además de esto un calendario o agenda que te
@@ -85,9 +86,13 @@ Para iniciar necesitas preguntarte si la idea que estás revisando es
 *accionable*. Es decir: ¿puedes hacer algo con el pendiente? Si la respuesta
 es *NO* vas a hacer una de las siguientes cosas:
 
+
 a) Borrarlo.
+
 b) Guardarlo como material de referencia.
+
 c) Agregarlo a la lista de Algún día / Quizás.
+
 d) o Incubarlo.
 
 El incubarlo se refiere a las actividades que te gustaría recordar en una
@@ -116,6 +121,7 @@ lista, mucho mejor.
 Si la tarea fuera más larga, entonces solo queda hacer uno de los siguientes:
 
 a) Delegar
+
 b) Diferir
 
 Delegar es dejar la actividad a cargo de otra persona y esperar el resultado.
@@ -307,10 +313,10 @@ GTD. Está elaborada para ser corta y concisa obviando cierta información del
 libro y el autor original.
 
 Si quieres una visión completa de lo que es el método GTD te recomendamos
-leer el libro de David Allen *["Organizate con eficacia"](http://www.amazon.com/Organizate-eficacia-Spanish-Edition-David/dp/849662708X)*
+leer el libro de David Allen *["Organizate con eficacia"](http://www.amazon.com/Organizate-eficacia-Spanish-Edition-David/dp/849662708X)*.
 
 La información en este sitio fue escrita en inglés por Erlend Hamberg y fue
-adaptada por Rodolfo Treviño. Puedes encontrar el sitio original (aquí)[hamberg.no/gtd/].
+adaptada por Rodolfo Treviño. Puedes encontrar el sitio original [aquí](hamberg.no/gtd/).
 
 Las ilustraciones mostradas en este sitio fueron dibujadas por el grupo
 [Freepik](http://www.freepik.com).
@@ -322,7 +328,8 @@ La guía fué escrita en Markdown y se utiliza
 [pandoc](http://pandoc.org/) para crear el HTML.
 
 Por ultimo:
+
 ¡Platica conmigo en [twitter](www.twitter.com/r_dlfo)!
-Comentarios y mejoras sobre esta guía son completamente bienvenidos.
+Comentarios y sugerencias de mejora son bienvenidos.
 
 ![](images/twitter22.png "Twitter")
