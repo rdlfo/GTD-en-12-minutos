@@ -157,6 +157,7 @@ img {
   max-width:100%;
 }
 
+/*
 header {
   width:270px;
   float:left;
@@ -206,6 +207,7 @@ header ul a:hover {
 header ul a:active {
   background-color:#f0f0f0;
 }
+*/
 
 strong {
   color:#222;
